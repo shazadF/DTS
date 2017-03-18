@@ -1,0 +1,295 @@
+F:\DTS API\DTS\DTS\bin\ApplicationInsights.config
+F:\DTS API\DTS\DTS\bin\roslyn\csc.exe
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DTS API\DTS\DTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DTS API\DTS\DTS\bin\roslyn\System.Collections.Immutable.dll
+F:\DTS API\DTS\DTS\bin\roslyn\System.Reflection.Metadata.dll
+F:\DTS API\DTS\DTS\bin\roslyn\vbc.exe
+F:\DTS API\DTS\DTS\bin\roslyn\VBCSCompiler.exe
+F:\DTS API\DTS\DTS\bin\roslyn\VBCSCompiler.exe.config
+F:\DTS API\DTS\DTS\bin\DTS.dll.config
+F:\DTS API\DTS\DTS\bin\DTS.dll
+F:\DTS API\DTS\DTS\bin\DTS.pdb
+F:\DTS API\DTS\DTS\bin\Antlr3.Runtime.dll
+F:\DTS API\DTS\DTS\bin\EntityFramework.dll
+F:\DTS API\DTS\DTS\bin\EntityFramework.SqlServer.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.Agent.Intercept.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.DependencyCollector.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.Web.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.WindowsServer.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.ApplicationInsights.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+F:\DTS API\DTS\DTS\bin\Newtonsoft.Json.dll
+F:\DTS API\DTS\DTS\bin\Owin.dll
+F:\DTS API\DTS\DTS\bin\System.Net.Http.Formatting.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Helpers.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Http.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Http.Owin.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Http.WebHost.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Mvc.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Optimization.dll
+F:\DTS API\DTS\DTS\bin\System.Web.Razor.dll
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.dll
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+F:\DTS API\DTS\DTS\bin\WebGrease.dll
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.DependencyCollector.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.Web.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AI.WindowsServer.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.ApplicationInsights.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DTS API\DTS\DTS\bin\Newtonsoft.Json.xml
+F:\DTS API\DTS\DTS\bin\System.Net.Http.Formatting.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Helpers.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Http.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Http.WebHost.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Mvc.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Optimization.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Razor.xml
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.xml
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+F:\DTS API\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+F:\DTS API\DTS\DTS\bin\Antlr3.Runtime.pdb
+F:\DTS API\DTS\DTS\bin\EntityFramework.xml
+F:\DTS API\DTS\DTS\bin\EntityFramework.SqlServer.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DTS API\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DTS API\DTS\DTS\bin\System.Web.Http.Owin.xml
+F:\DTS API\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+F:\DTS API\DTS\DTS\obj\Debug\DTS.dll
+F:\DTS API\DTS\DTS\obj\Debug\DTS.pdb
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.firstMigration.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.csproj.GenerateResource.Cache
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.AddCompanyIdToUserModel.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.UserIdChangeToStringInAllModel.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.addAllModeltoDatabase.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.removeRequiredInUserIdInComapanyModel.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.deleteHistorySequenceIdFromHistoryModel.resources
+F:\DTS API\DTS\DTS\obj\Debug\DTS.Migrations.ChangeUserIdtoStringInTagAndRestrictedModel.resources
+G:\DTS\DTS\bin\ApplicationInsights.config
+G:\DTS\DTS\bin\roslyn\csc.exe
+G:\DTS\DTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DTS\DTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DTS\DTS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DTS\DTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DTS\DTS\bin\roslyn\System.Collections.Immutable.dll
+G:\DTS\DTS\bin\roslyn\System.Reflection.Metadata.dll
+G:\DTS\DTS\bin\roslyn\vbc.exe
+G:\DTS\DTS\bin\roslyn\VBCSCompiler.exe
+G:\DTS\DTS\bin\roslyn\VBCSCompiler.exe.config
+G:\DTS\DTS\bin\DTS.dll.config
+G:\DTS\DTS\bin\DTS.dll
+G:\DTS\DTS\bin\DTS.pdb
+G:\DTS\DTS\bin\Antlr3.Runtime.dll
+G:\DTS\DTS\bin\EntityFramework.dll
+G:\DTS\DTS\bin\EntityFramework.SqlServer.dll
+G:\DTS\DTS\bin\Microsoft.AI.Agent.Intercept.dll
+G:\DTS\DTS\bin\Microsoft.AI.DependencyCollector.dll
+G:\DTS\DTS\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\DTS\DTS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\DTS\DTS\bin\Microsoft.AI.Web.dll
+G:\DTS\DTS\bin\Microsoft.AI.WindowsServer.dll
+G:\DTS\DTS\bin\Microsoft.ApplicationInsights.dll
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\DTS\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DTS\DTS\bin\Microsoft.Owin.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Google.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+G:\DTS\DTS\bin\Microsoft.Web.Infrastructure.dll
+G:\DTS\DTS\bin\Newtonsoft.Json.dll
+G:\DTS\DTS\bin\Owin.dll
+G:\DTS\DTS\bin\System.Net.Http.Formatting.dll
+G:\DTS\DTS\bin\System.Web.Helpers.dll
+G:\DTS\DTS\bin\System.Web.Http.dll
+G:\DTS\DTS\bin\System.Web.Http.Owin.dll
+G:\DTS\DTS\bin\System.Web.Http.WebHost.dll
+G:\DTS\DTS\bin\System.Web.Mvc.dll
+G:\DTS\DTS\bin\System.Web.Optimization.dll
+G:\DTS\DTS\bin\System.Web.Razor.dll
+G:\DTS\DTS\bin\System.Web.WebPages.Deployment.dll
+G:\DTS\DTS\bin\System.Web.WebPages.dll
+G:\DTS\DTS\bin\System.Web.WebPages.Razor.dll
+G:\DTS\DTS\bin\WebGrease.dll
+G:\DTS\DTS\bin\Microsoft.AI.DependencyCollector.xml
+G:\DTS\DTS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\DTS\DTS\bin\Microsoft.AI.Web.xml
+G:\DTS\DTS\bin\Microsoft.AI.WindowsServer.xml
+G:\DTS\DTS\bin\Microsoft.ApplicationInsights.xml
+G:\DTS\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DTS\DTS\bin\Newtonsoft.Json.xml
+G:\DTS\DTS\bin\System.Net.Http.Formatting.xml
+G:\DTS\DTS\bin\System.Web.Helpers.xml
+G:\DTS\DTS\bin\System.Web.Http.xml
+G:\DTS\DTS\bin\System.Web.Http.WebHost.xml
+G:\DTS\DTS\bin\System.Web.Mvc.xml
+G:\DTS\DTS\bin\System.Web.Optimization.xml
+G:\DTS\DTS\bin\System.Web.Razor.xml
+G:\DTS\DTS\bin\System.Web.WebPages.xml
+G:\DTS\DTS\bin\System.Web.WebPages.Deployment.xml
+G:\DTS\DTS\bin\System.Web.WebPages.Razor.xml
+G:\DTS\DTS\bin\Antlr3.Runtime.pdb
+G:\DTS\DTS\bin\EntityFramework.xml
+G:\DTS\DTS\bin\EntityFramework.SqlServer.xml
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\DTS\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\DTS\DTS\bin\Microsoft.Owin.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Google.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+G:\DTS\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\DTS\DTS\bin\System.Web.Http.Owin.xml
+G:\DTS\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+G:\DTS\DTS\obj\Debug\DTS.Migrations.firstMigration.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.AddCompanyIdToUserModel.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.UserIdChangeToStringInAllModel.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.addAllModeltoDatabase.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.removeRequiredInUserIdInComapanyModel.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.deleteHistorySequenceIdFromHistoryModel.resources
+G:\DTS\DTS\obj\Debug\DTS.Migrations.ChangeUserIdtoStringInTagAndRestrictedModel.resources
+G:\DTS\DTS\obj\Debug\DTS.csproj.GenerateResource.Cache
+G:\DTS\DTS\obj\Debug\DTS.dll
+G:\DTS\DTS\obj\Debug\DTS.pdb
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\ApplicationInsights.config
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\csc.exe
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\vbc.exe
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\DTS.dll.config
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\DTS.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\DTS.pdb
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Antlr3.Runtime.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\EntityFramework.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\EntityFramework.SqlServer.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.Web.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Newtonsoft.Json.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Owin.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Net.Http.Formatting.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Helpers.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.Owin.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.WebHost.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Mvc.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Optimization.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Razor.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\WebGrease.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.Web.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Newtonsoft.Json.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Net.Http.Formatting.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Helpers.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.WebHost.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Mvc.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Optimization.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Razor.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Antlr3.Runtime.pdb
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\EntityFramework.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\EntityFramework.SqlServer.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\bin\System.Web.Http.Owin.xml
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.csprojResolveAssemblyReference.cache
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.firstMigration.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.AddCompanyIdToUserModel.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.UserIdChangeToStringInAllModel.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.addAllModeltoDatabase.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.removeRequiredInUserIdInComapanyModel.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.deleteHistorySequenceIdFromHistoryModel.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.ChangeUserIdtoStringInTagAndRestrictedModel.resources
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.csproj.GenerateResource.Cache
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.dll
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.pdb
+C:\Users\Mithun\Dropbox\DTSpublishedVersion\dts\DTS\obj\Debug\DTS.Migrations.AddFourNewModel.resources
